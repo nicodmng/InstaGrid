@@ -11,7 +11,7 @@ L'application est responsive et fonctionne aussi bien en mode Portrait qu'en mod
 Une version 2.0 est prévue, incluant notamment :
 <li>Un bouton "clear" qui a pour but de réinitialiser entièrement le cadre.
 <li>Une fonction ne permettant pas de partager le cadre si ce dernier n'est pas totalement rempli.
-<li>Une presonnalisation de la couleur du cadre.
+<li>Une personnalisation de la couleur du cadre.
 <p>
 <hr>
 <h3>Compétences acquises</h3>
@@ -19,7 +19,7 @@ Ce projet fait suite à la formation d'OpenClassRooms de "Développeur d'applica
 <p>
 <hr>
 <h3>Images</h3>
- <p>
+<p>
 
 ![screenshotTitle](https://user-images.githubusercontent.com/78477762/120675826-b6254880-c495-11eb-8a48-c3d4c31b9d3f.png)
 ![sreenUpload](https://user-images.githubusercontent.com/78477762/120676067-f8e72080-c495-11eb-99f5-beae77a3f1f4.png)
