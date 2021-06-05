@@ -24,3 +24,4 @@ Ce projet fait suite à la formation d'OpenClassRooms de "Développeur d'applica
 ![screenshotTitle](https://user-images.githubusercontent.com/78477762/120675826-b6254880-c495-11eb-8a48-c3d4c31b9d3f.png)
 ![sreenUpload](https://user-images.githubusercontent.com/78477762/120676067-f8e72080-c495-11eb-99f5-beae77a3f1f4.png)
 ![screenActivity](https://user-images.githubusercontent.com/78477762/120676174-0f8d7780-c496-11eb-99be-195fe2d6ff2f.png)
+<hr>
