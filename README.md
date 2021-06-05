@@ -15,7 +15,7 @@ Une version 2.0 est prévue, incluant notamment :
 <p>
 <hr>
 <h3>Compétences acquises</h3>
-Ce projet fait suite à la formation d'OpenClassRooms de "Développeur d'application iOS". Il a pour but d'initier aux commandes UIActivityViewController, UIGestureRecognizer et UIImagePickerController ainsi qu'à créer un design responsive à partir d'un mockup.
+Ce projet fait suite à la formation d'OpenClassRooms de "Développeur d'application iOS". Il permet d'initier aux commandes UIActivityViewController, UIGestureRecognizer et UIImagePickerController ainsi qu'à créer un design responsive à partir d'un mockup.
 <p>
 <hr>
 <h3>Images en mode Portrait</h3>
