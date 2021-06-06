@@ -25,3 +25,7 @@ Ce projet fait suite à la formation d'OpenClassRooms de "Développeur d'applica
 ![sreenUpload](https://user-images.githubusercontent.com/78477762/120676067-f8e72080-c495-11eb-99f5-beae77a3f1f4.png)
 ![screenActivity](https://user-images.githubusercontent.com/78477762/120676174-0f8d7780-c496-11eb-99be-195fe2d6ff2f.png)
 <hr>
+<h3>Image en mode Paysage</h3>
+
+![Simulator Screen Shot - iPhone 12 Pro - 2021-06-06 at 22 44 49](https://user-images.githubusercontent.com/78477762/120939583-fa744b00-c718-11eb-9bf2-15c242e9bd17.png)
+<hr>
